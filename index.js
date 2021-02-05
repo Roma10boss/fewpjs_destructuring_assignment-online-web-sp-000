@@ -31,7 +31,7 @@ const k_muppet = {
 const animals_sounds=[
   'moo', 'neigh', 'bleat', 'oink', 'clucking'
 ]
-console.log(an)
+console.log(animals_sounds)
 
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
 
